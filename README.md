@@ -5,7 +5,7 @@ Nextsoft/Gamebryo resource format used by Blue Tears Online / QQ Xian Jing / Pun
 
 This is an ongoing documentation of a hobby project and this repository is for educational purpose only. 
 I do it out of childhood nostalgia and love for this early-deceased game. Please refrain from any commerical use. 
-It contain resource extraction, asset viewing scripts and the development diary.
+It contains resource extraction, asset viewing scripts and the development diary.
 
 ## Current Status
 
