@@ -1,0 +1,7 @@
+numpy
+Pillow
+PySide6
+pyqtgraph
+trimesh
+pefile
+
